@@ -1,13 +1,13 @@
-#EXTM3U TV360
+#EXTM3U
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
-http://27.67.64.6:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9YdyrPWFrpV/VPXNl+kR5xtZaiX5fkoH2aAf/HKPzchGr+lRLAphjgcjg1bveuSIsxRkv3O0qSOeVXXxCxS3MVOyRCi8sDBwXLEPclC85E02BkTPlVbdBe7ecZYKvG2xEtBYpfWgjVNVGHRn9fVC6P9zdrbjX1zPtOYgmFWhSLq
+http://27.67.64.6:18080/154.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/0+x10CYCFDw49TtMKxtR8i066EyIw0io/yJi1214FeXZYy1AB7AfaGBYeKKtEAZxk0Ru4lKaW4+Cbg3Evt1Xr/Qda0B6hbZcl7H6I+Kyb/joc5s8NByj+m4/HswtCbdJXB98veg4MPunOu7KDrO1BK78V/tUiIm7VNLpx+pjKTO
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
-http://live-zlr1.tv360.vn/manifest/vtv2/master.m3u8?timestamp=1670065578&token=8c0645845f4eb66d72a2231400ee199e&manifestfilter=video_bitrate:1-4194304
+http://live-ali4.tv360.vn/manifest/vtv2/master.m3u8?timestamp=1670153574&token=5c1a699efdfb0d16ab8dc00bbe967560&manifestfilter=video_bitrate:1-4194304
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
-http://live.tv360.vn/manifest/VTV3/master.m3u8?hdnts=exp=1670000845~acl=/*~hmac=52356b3f8b7db6f35fa3dd0892aca269750ce8ba8ddc1925fda238e39abffd54&manifestfilter=video_bitrate:1-4194304
+http://live-ali2.tv360.vn/manifest/VTV3/master.m3u8?timestamp=1670153604&token=72ed29c36986b96a97f008bb5b03513e&manifestfilter=video_bitrate:1-4194304
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv4hd" tvg-logo="https://cdn.hqth.me/logo/4.png",VTV4 HD
-http://27.67.64.6:18080/193.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3EMFaLysUAbKz+rJVk1RrFCfz5RjWM99PGK5sD+5F2gHovDGPyyI10SM9LKrLPy3/d/ajY2qx8NpqTqE1QkSEvmeXEFS1BfpbbrbPjX6ugJc2z4wGt0ySS00gGBMIpOcZTWK/a1XUJ7HBnREYPunOqkfX3gMONX2Sx3HMIZzm0u
+http://27.67.64.6:18080/193.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv//BqslBgoCxDlbqKaHGtPDBDAyQSzHMD6VB8GgeSt5KYJ4J3Yy30vDSLF7LHFgFwqgp6dy5rSQ6o9HmGaqIPpNk2cwLp71UadrCObhdcqkhQj8P73B97xO2a8wjJHAxzg0n0ZWnpb0hFpDSmeeM1U5zSQ+U7XcZeUuGylNIT6iov
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
-http://live.tv360.vn/manifest/VTV5_HD/master.m3u8?hdnts=exp=1670000907~acl=/*~hmac=c2c670987638fb79a1befabafc71241461f46ae7b53026143aab16c3d4476fc2&manifestfilter=video_bitrate:1-4194304
+http://live-zlr1.tv360.vn/manifest/VTV5_HD/master.m3u8?timestamp=1670153652&token=75255bef99796916eda14ed020064d7d&manifestfilter=video_bitrate:1-4194304
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtvcanthohd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV Cần Thơ
-http://live.tv360.vn/manifest/VTV6_HD/master.m3u8?hdnts=exp=1670000941~acl=/*~hmac=f6811098ab20af9084209dda4680312d0cfbf39d2a4582fe647d1acf1f3d7676&manifestfilter=video_bitrate:1-4194304
+http://live-zlr1.tv360.vn/manifest/VTV6_HD/master.m3u8?timestamp=1670153673&token=3195e58e82421c192e5dd4e017a40ef1&manifestfilter=video_bitrate:1-4194304
